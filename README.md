@@ -22,7 +22,8 @@ a good ux/ui
 
  When you entered any valid city
  
- ![web2](https://user-images.githubusercontent.com/78414321/151710211-13af2412-241c-4b11-aef7-892206af5083.JPG)
+ ![webb](https://user-images.githubusercontent.com/78414321/151714678-5976a134-e585-4620-bdb8-e251141fd67b.JPG)
+
 
 When you did'nt entered anything
  
