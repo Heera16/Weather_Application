@@ -3,7 +3,7 @@
 I used open weather API to fetch data.
 
 ## Web link
-https://github.com/Heera16/Weather_Application
+https://github.com/Heera16/Weather_Application.github.io
 
 This web project is done in HTML5,CSS3 and Javascript.
 
